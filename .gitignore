@@ -3,6 +3,7 @@ tmp.py
 htmlcov/
 .coverage.*
 
+nohup.out
 *.py[cod]
 .pytest_cache
 venv*
