@@ -12,6 +12,12 @@ The glom team's approach to updates can be summed up as:
 Check this page when upgrading, we strive to keep the updates
 summarized and well-linked.
 
+## 25.12.0
+
+_(December 28, 2025)_
+
+Maintenance release, adding tests and test fixes for Python 3.13 and 3.14.
+
 ## 24.11.0
 
 _(November 2, 2024)_
